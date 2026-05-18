@@ -17,9 +17,9 @@ Based on the multi-variable exploratory data analysis and predictive modeling, s
 **Supply Chain Inefficiencies:** Post-harvest losses have remained relatively static over the past decade, hovering consistently between 5% and 6%. Correlation heatmaps indicate that losses scale almost perfectly with personal consumption ($r = 0.95$) and livestock feed ($r = 0.90$).
 
 **Future Projections (2025–2029):** 
-Consumption: Polynomial curve models suggest a strong, accelerating upward trend in domestic consumption over the next five years. 
-
-Exports: While linear baselines show steady tonnage growth, exponential compounding models indicate a massive potential ceiling for export volume if current growth rates are maintained.
+1. Consumption: Polynomial curve models suggest a strong, accelerating upward trend in domestic consumption over the next five years.
+ 
+2. Exports: While linear baselines show steady tonnage growth, exponential compounding models indicate a massive potential ceiling for export volume if current growth rates are maintained.
 
 ## Visualizations & Dashboards
 
