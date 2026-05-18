@@ -3,7 +3,7 @@
 An end-to-end data analysis and econometric forecasting pipeline analyzing Azerbaijan's national agricultural utilization vectors. This project transforms raw historical indicators into production-grade visualizations and predictive multi-model projections extending out to 2030.
 
 **Quantitative Insights & Core Deliverables**
-1. Macro Utilization & Export Matrix
+1. Macro Utilization & Export Graph
 <img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/5e020c93-7bcf-4ef6-aad6-6d312b3bc2e9" />
 
 2. Macro Resource Allocation Dashboard: The core dashboard segments structural supply pipelines into distinct industrial, consumption, and waste vectors.
