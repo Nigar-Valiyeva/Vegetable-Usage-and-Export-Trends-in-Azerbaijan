@@ -43,6 +43,7 @@ plt.tight_layout()
 plt.savefig('vegetable_usage_fixed_ticks.png')
 plt.close()
 
+df['Loss_Percentage'] = (df['İtkilər (ton)'] / df['İstifadələrin cəmi (ton)']) * 100
 sns.set_theme(style="whitegrid")
 fig, axes = plt.subplots(2, 2, figsize=(16, 12))
 
@@ -156,7 +157,7 @@ sns.lineplot(x=future_timeline, y=y_poly_pred, color='#d90429', linewidth=2.5, l
 sns.lineplot(x=future_timeline, y=y_exp_pred, color='#ffb703', linewidth=2, linestyle='--', label='Exponential Growth Model (Compounding Growth)', ax=ax)
 
 ax.axvspan(2024, 2030, color='#edf6f9', alpha=0.6, label='Forecast Window')
-ax.set_title('Time Series Projections for Consumption', fontsize=16, fontweight='bold', pad=20, color='#1a2a3a')
+ax.set_title('Time Series Projections: Vegetable Consumption Dynamics', fontsize=16, fontweight='bold', pad=20, color='#1a2a3a')
 ax.set_ylabel('Consumption Volume (Metric Tons)', fontsize=12)
 ax.set_xlabel('Year', fontsize=12)
 ax.set_xticks(range(2007, 2031, 2))
