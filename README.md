@@ -24,19 +24,27 @@ Based on the multi-variable exploratory data analysis and predictive modeling, s
 ## Visualizations & Dashboards
 
 1. Macro Usage Trends
+
 This line graph illustrates the historical relationship between domestic consumption and international exports.
+
 <img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/a7c5f798-85f0-4c38-9362-5a33a0857350" />
 
 2. Sector Distribution Dashboard
+   
 A comprehensive breakdown of where vegetables actually go, including industrial processing trends, supply chain loss percentages, feed allocation, and a 2024 distribution summary.
+
 <img width="1398" height="1150" alt="image" src="https://github.com/user-attachments/assets/567837d0-8045-4cd7-99ab-0aa3910f66d5" />
 
 3. Variable Correlation Heatmap
+
 A statistical breakdown showing the relationships between manufacturing, losses, exports, and consumption.
+
 <img width="885" height="783" alt="image" src="https://github.com/user-attachments/assets/d10f31bd-7da6-46b5-ab47-76e04eaa0412" />
 
 4. Time Series Projections (Consumption & Exports)
+
 Forecasting future volumes using Linear, Polynomial, and Exponential growth models.
+
 <img width="1088" height="638" alt="image" src="https://github.com/user-attachments/assets/6f3d57e7-3df3-4839-8270-e101ed5938fb" />
 
 <img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/51ce266a-4990-4478-ab42-f6c4350f3108" />
