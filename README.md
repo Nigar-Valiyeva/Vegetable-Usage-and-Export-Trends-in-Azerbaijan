@@ -4,7 +4,7 @@ An end-to-end data analysis and econometric forecasting pipeline analyzing Azerb
 
 Dataset Source: https://opendata.az/@dsk/uses-of-all-kinds-of-vegetables
 
-**Macro Utilization & Export Line Graph**
+**Macro Consumption & Export Line Graph**
 
 <img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/5e020c93-7bcf-4ef6-aad6-6d312b3bc2e9" />
 
