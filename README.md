@@ -10,7 +10,7 @@ Dataset Source: https://opendata.az/@dsk/uses-of-all-kinds-of-vegetables
 
 This dual-axis line graph illustrates the macro utilization and export trends for vegetables in Azerbaijan over an 18-year period, from 2007 to 2024. Key metrics tracked are Personal Consumption (tons), Export (tons), and Export % of Total.
 
-⁂ Data Breakdown & Timeline Trends:
+# Data Breakdown & Timeline Trends:
 
 1. The Baseline Period (2007 – 2015)
 
@@ -22,7 +22,8 @@ This dual-axis line graph illustrates the macro utilization and export trends fo
 
 2. The Export Spike & Shift (2016 – 2018)
    
-• Starting in 2016, exports experienced a sharp increase, peaking in 2017 and 2018 at over $200,000$ tons. Because personal consumption remained steady at around $1.0 \times 10^6$ tons during this window, the Export % of Total spiked dramatically, hitting its historical peak of 14% in 2017.
+• Starting in 2016, exports experienced a sharp increase, peaking in 2017 and 2018 at over $200,000$ tons. 
+• Because personal consumption remained steady at around $1.0 \times 10^6$ tons during this window, the Export % of Total spiked dramatically, hitting its historical peak of 14% in 2017.
 
 3. Consumption Growth & Export Stabilization (2019 – 2024)
 
