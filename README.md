@@ -4,8 +4,6 @@ An end-to-end data analysis and econometric forecasting pipeline analyzing Azerb
 
 Dataset Source: https://opendata.az/@dsk/uses-of-all-kinds-of-vegetables
 
-# Macro Consumption & Export Analysis
-
 <img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/5e020c93-7bcf-4ef6-aad6-6d312b3bc2e9" />
 
 This dual-axis line graph illustrates the macro utilization and export trends for vegetables in Azerbaijan over an 18-year period, from 2007 to 2024. Key metrics tracked are Personal Consumption (tons), Export (tons), and Export % of Total.
@@ -34,7 +32,6 @@ This dual-axis line graph illustrates the macro utilization and export trends fo
 
 • Proportional Drop: Due to the combination of soaring domestic consumption and plateauing export volumes, the export market share dropped sharply from its 14% high, flattening out at approximately 8% by 2024.
 
-**Macro Resource Allocation Dashboard**
 
 <img width="1398" height="1150" alt="image" src="https://github.com/user-attachments/assets/de50a571-5b4d-48c7-b4c6-2dc31aa5aa1c" />
 
